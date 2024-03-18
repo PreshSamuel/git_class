@@ -3,3 +3,14 @@ git add 'file 1' - add 'file 1' to the new git repository
 git commit -m 'message' - add a commit message
 git log - show a history of the commits
 git status - show the current state of the repository
+
+git remote - shows the available remote locations in a repository
+git remote add 'remote_name' 'remote_url' - adds a new remote repository
+git push 'remote_name' 'branch_name' - sends your code to the repository you and branch specified
+git pull 'remote_name' 'branch_name' - downloads code from your repository and branch specified
+
+git clone 'repository_name'
+
+git branch - shows all the branches in a repository
+git branch 'branch_name' creates a new branch with a specified name
+git checkout 'branch_name' - switches the current branch to a specified branch
