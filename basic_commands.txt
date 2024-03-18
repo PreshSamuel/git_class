@@ -1,0 +1,5 @@
+git init - Initialize an empty git repository
+git add 'file 1' - add 'file 1' to the new git repository
+git commit -m 'message' - add a commit message
+git log - show a gistory of the commits
+git status - show the current state of the repository
